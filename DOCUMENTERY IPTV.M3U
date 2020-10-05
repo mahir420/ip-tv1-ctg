@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1,Discovery[Hindi]
+https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+#EXTINF:-1,DiscoveryHD
+https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
+#EXTINF:-1,DiscoverScience[Hindi]
+https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
+#EXTINF:-1,Discoverturbo
+https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
+#EXTINF:-1,AnimalplanetHD[Hindi]
+https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD[Bangla]
+http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63557
+#EXTINF:-1,Food Channel
+http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:-1,Living Foodz
+http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="USA | Discovery Channel" tvg-logo="http://lonewolftvpr.com/logos/discoverychannel.png" group-title="USA",USA | Discovery Channel
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/184
+#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="USA | Discovery Family" tvg-logo="http://lonewolftvpr.com/logos/discoveryfamily.png" group-title="USA",USA | Discovery Family
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/183
+#EXTINF:-1 tvg-id="discoverylife.us" tvg-name="USA | Discovery Life" tvg-logo="http://lonewolftvpr.com/logos/discoverylife.png" group-title="USA",USA | Discovery Life
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/182
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="USA | Discovery Science" tvg-logo="http://lonewolftvpr.com/logos/science.png" group-title="USA",USA | Discovery Science
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/181
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="USA | Food Network" tvg-logo="http://lonewolftvpr.com/logos/foodnetwork.png" group-title="USA",USA | Food Network
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/171
+#EXTINF:-1 tvg-id="fyi.us" tvg-name="USA | FYI" tvg-logo="http://lonewolftvpr.com/logos/fyi.png" group-title="USA",USA | FYI
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/164
+#EXTINF:-1 tvg-id="" tvg-name="USA | History 2" tvg-logo="http://lonewolftvpr.com/logos/h21080.png" group-title="USA",USA | History 2
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/1181
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="USA | History Channel" tvg-logo="http://lonewolftvpr.com/logos/history.png" group-title="USA",USA | History Channel
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/153
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="USA | Investigation Discovery" tvg-logo="http://lonewolftvpr.com/logos/id.png" group-title="USA",USA | Investigation Discovery
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/150
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="USA | Nat Geo" tvg-logo="http://lonewolftvpr.com/logos/natgeo.png" group-title="USA",USA | Nat Geo
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/141
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="USA | Nat Geo Wild" tvg-logo="http://lonewolftvpr.com/logos/nadgeowild.png" group-title="USA",USA | Nat Geo Wild
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/140
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="USA | TLC" tvg-logo="http://lonewolftvpr.com/logos/tlc.png" group-title="USA",USA | TLC
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/241
+
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="Latino | Discovery Channel" tvg-logo="http://lonewolftvpr.com/logos/discoverychannel.png" group-title="Latinamerica",Latino | Discovery Channel
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/60
+#EXTINF:-1 tvg-id="discoveryespanol.us" tvg-name="Latino | Discovery en Espanol" tvg-logo="http://lonewolftvpr.com/logos/discoveryenespanol.png" group-title="Latinamerica",Latino | Discovery en Espanol
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/567
+#EXTINF:-1 tvg-id="discoverycivilization.mx" tvg-name="Latino | Discovery Civilization" tvg-logo="http://lonewolftvpr.com/logos/discoverycivi.png" group-title="Latinamerica",Latino | Discovery Civilization
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/111
+#EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name="Latino | Discovery Familia" tvg-logo="http://lonewolftvpr.com/logos/discoveryfamilia.png" group-title="Latinamerica",Latino | Discovery Familia
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/253
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="Latino | Discovery H&H" tvg-logo="http://lonewolftvpr.com/logos/discoveryhh.png" group-title="Latinamerica",Latino | Discovery H&H
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/62
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="Latino | Discovery ID" tvg-logo="http://lonewolftvpr.com/logos/id.png" group-title="Latinamerica",Latino | Discovery ID
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/32
+#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="Latino | Discovery Science" tvg-logo="http://lonewolftvpr.com/logos/science.png" group-title="Latinamerica",Latino | Discovery Science
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/110
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="Latino | Discovery Theater" tvg-logo="http://lonewolftvpr.com/logos/discoveryteather.png" group-title="Latinamerica",Latino | Discovery Theater
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/56
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="Latino | Discovery TLC" tvg-logo="http://lonewolftvpr.com/logos/tlc.png" group-title="Latinamerica",Latino | Discovery TLC
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/65
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="Latino | Discovery Turbo" tvg-logo="http://lonewolftvpr.com/logos/discoveryturbo.png" group-title="Latinamerica",Latino | Discovery Turbo
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/285
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="Latino | Discovery World" tvg-logo="http://lonewolftvpr.com/logos/discoveryworld.png" group-title="Latinamerica",Latino | Discovery World
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/59
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="Latino | History 2" tvg-logo="http://lonewolftvpr.com/logos/h2.png" group-title="Latinamerica",Latino | History 2
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/289
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="Latino | History Channel" tvg-logo="http://lonewolftvpr.com/logos/history.png" group-title="Latinamerica",Latino | History Channel
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/57
+#EXTINF:-1 tvg-id="natgeowild.mx" tvg-name="Latino | Nat Geo Wild" tvg-logo="http://lonewolftvpr.com/logos/nadgeowild.png" group-title="Latinamerica",Latino | Nat Geo Wild
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/58
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="Latino | National Geographic" tvg-logo="http://lonewolftvpr.com/logos/natgeo.png" group-title="Latinamerica",Latino | National Geographic
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/63
